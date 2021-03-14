@@ -1,0 +1,11 @@
+p{
+  color: brown;
+  font-size: 20px;
+  font-weight: 700;
+}
+.container p{
+  color: burlywood;
+  font-size: 34px;
+  font-weight: 800;
+  font-family: sans-serif;
+}
